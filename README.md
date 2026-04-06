@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="ROBEX Banner" width="100%" />
+  <img src="ROBEX_ IoT robot with AI integration.png" alt="ROBEX Banner" width="100%" />
 </p>
 # 🤖 ROBEX – IoT Based Robot Powered by LLM
 
