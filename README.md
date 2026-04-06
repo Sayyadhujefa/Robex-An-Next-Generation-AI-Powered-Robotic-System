@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="ROBEX Banner" width="100%" />
+</p>
 # 🤖 ROBEX – IoT Based Robot Powered by LLM
 
 ## 📌 Overview
